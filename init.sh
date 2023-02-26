@@ -12,6 +12,7 @@ do
 
   cp bin/sub.py data/$limit/subtitle/
   cp bin/readline.py data/$limit/subtitle/
+  cp bin/intro.mp3 data/$limit/media
 
   cp bin/*.mp3 data/$limit/media
   cp bin/movie.png data/$limit/media
